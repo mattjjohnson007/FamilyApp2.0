@@ -21,7 +21,7 @@ namespace FamilyApp2
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
+                            Text = "Welcome to Xamarin Forms! Fart Fart Fart"
                         }
                     }
                 }
